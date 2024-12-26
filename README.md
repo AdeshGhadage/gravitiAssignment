@@ -40,7 +40,7 @@ Your frontend will be running on http://localhost:3000 (or the port specified in
     node server.js
    bash
    
-Your backend will be running on http://localhost:5000 (or the port specified in your server configuration).
+Your backend will be running on http://localhost:4000 (or the port specified in your server configuration).
 
 ## Video Demo
 
